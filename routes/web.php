@@ -17,3 +17,9 @@ Route::get('/', function () {
 Route::get('/search', function () {
     return view('searchHotel');
 });
+Route::get('/login', function () {
+    return view('login');
+});
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

@@ -18,6 +18,7 @@
 <link rel="stylesheet" href="css/theme.css">
 <link rel="stylesheet" href="css/colors/turquoise.css">
 <link rel="stylesheet" href="css/responsive.css">
+<link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600,700">
 
 <!-- Javascripts --> 
@@ -107,8 +108,8 @@
               <li><a href="blog-post.html">Xnxx</a></li>
             </ul>
           </li>
-          <li> <a href="#">Login</a></li>
-          <li> <a href="#">Register</a>
+          <li> <a href="/login">Login</a></li>
+          <li> <a href="/register">Register</a>
           </li>
         </ul>
       </div>
